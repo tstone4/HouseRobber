@@ -1,0 +1,16 @@
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.exe
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.deps.json
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.runtimeconfig.json
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.runtimeconfig.dev.json
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.dll
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\ref\HouseRobber.dll
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\bin\Debug\net5.0\HouseRobber.pdb
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.csprojAssemblyReference.cache
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.AssemblyInfoInputs.cache
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.AssemblyInfo.cs
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.csproj.CoreCompileInputs.cache
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.dll
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\ref\HouseRobber.dll
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.pdb
+C:\Users\Thomas Stone\source\repos\HouseRobber\HouseRobber\obj\Debug\net5.0\HouseRobber.genruntimeconfig.cache
